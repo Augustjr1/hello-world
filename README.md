@@ -1,3 +1,3 @@
 # hello-world
-Github Ultra\n
+Github Ultra
 Excellent performance
